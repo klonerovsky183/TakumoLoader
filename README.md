@@ -14,4 +14,4 @@ If the loader doesn't open:
   4. Run the loader again.
 
 ## Credits
-Thank Azuki for a help!
+Thank Azuki for a help!!!
